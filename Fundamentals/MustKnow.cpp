@@ -60,9 +60,32 @@ int main ()
   int o = i+c;
   cout<<o;
 
+   //output is 107
+
+
+   char x = i+c;
   
-  
-  
+  cout<<x;
+   //output is k
+
+   //program 8 
+
+   int a =10;
+   char ch ='a';
+   ch=ch+a;
+   cout<<ch;
+
+   //output is k 
+
+   //howvwer if 
+   cout<<ch+3; 
+
+  // then NUMBER IS PRINTED = 110
+
+  bool a = (c==h);
+   //returns 1 or 0
+   bool g = (l>=h);
+   //returns 1 or 0
   
   
   
